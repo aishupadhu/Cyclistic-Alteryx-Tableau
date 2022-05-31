@@ -53,7 +53,7 @@ The dataset is in the form of 12 CSV files, each containing ride data from May 2
 
 A screenshot of the Alteryx workflow is shown below, the workflow file is available in this Github repository as well.
 
-<img src="/img/Alteryx_workflow.png" width="1000" height="450"/>
+<img src="/img/Alteryx_workflow.png" width="1375" height="450"/>
 
 ## Step 4: Analyze - Analysis through Visualizations
 **Tableau** was used for building the visualizations for this analysis.
